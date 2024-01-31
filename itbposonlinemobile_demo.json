@@ -1,9 +1,10 @@
 {
-  "latestVersion": "1.2",
-  "latestVersionCode": "3",
-  "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
+  "latestVersion": "1.2.2",
+  "latestVersionCode": "10",
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
   "releaseNotes": [
-    "- Update menu retur pada detail pembelian",
-    "- Update jika tersedia versi terbaru"
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
   ]
 }
