@@ -1,10 +1,9 @@
 {
-  "latestVersion": "1.2.2",
-  "latestVersionCode": 10,
+  "latestVersion": "1.2",
+  "latestVersionCode": 3,
   "url": "https://github.com/javiersantos/AppUpdater/releases",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "- Update menu retur pada detail pembelian",
+    "- Update jika tersedia versi terbaru",
   ]
 }
