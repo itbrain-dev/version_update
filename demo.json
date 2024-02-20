@@ -3,7 +3,8 @@
     "latestVersionCode": "11",
     "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
     "releaseNotes": [
-        "- Update menu hak akses",
-        "- Update menu user"
+        "- Menambahkan Master Metode",
+        "- Menambahkan Menu Keuangan",
+        "- Menambahkan Menu Laporan Keuangan"
     ]
 }
