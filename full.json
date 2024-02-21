@@ -1,10 +1,11 @@
 {
-    "latestVersion": "2.1",
-    "latestVersionCode": "12",
+    "latestVersion": "2.2",
+    "latestVersionCode": "13",
     "url": "https://drive.google.com/uc?export=download&id=1MyK-renfU4gJUQE4QAdqr_sXZRx0jqpC",
     "releaseNotes": [
         "- Menambahkan Master Metode",
         "- Menambahkan Menu Keuangan",
-        "- Menambahkan Menu Laporan Keuangan"
+        "- Menambahkan Menu Laporan Keuangan",
+        "- Perbaikan gagal menyimpan data penjualan saat piutang"
     ]
 }
