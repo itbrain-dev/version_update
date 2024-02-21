@@ -1,12 +1,10 @@
 {
-    "latestVersion": "2.3",
-    "latestVersionCode": "14",
+    "latestVersion": "2.4",
+    "latestVersionCode": "15",
     "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
     "releaseNotes": [
-        "- Menambahkan Master Metode",
-        "- Menambahkan Menu Keuangan",
-        "- Menambahkan Menu Laporan Keuangan",
         "- Perbaikan gagal menyimpan data penjualan saat piutang",
-        "- Perbaikan daftar hutang tidak keluar"
+        "- Perbaikan daftar hutang tidak keluar",
+        "- Perbaikan level pelanggan tidak muncul"
     ]
 }
