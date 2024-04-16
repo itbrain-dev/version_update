@@ -1,9 +1,10 @@
 {
-    "latestVersion": "4.9.7",
+    "latestVersion": "4.9.8",
     "latestVersionCode": "1",
     "url": "https://www.dropbox.com/scl/fi/vf3sojzbzbaar8s22szvy/ITBPos-3-Full-Online-Multi-Cabang-Lisensi-4.8.8.zip?rlkey=1apfx02xlgivxbz154j1d3ezz&dl=0&raw=1",
     "releaseNotes": [
         "- Optimisasi Performa Aplikasi",
-        "- Penambahan jarak pada struk 80"
+        "- Penambahan jarak pada struk 80",
+        "- Perbaikan pada struk A5 Landscape"
     ]
 }
