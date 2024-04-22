@@ -1,10 +1,10 @@
 {
-    "latestVersion": "2.4",
-    "latestVersionCode": "15",
+    "latestVersion": "2.5",
+    "latestVersionCode": "16",
     "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
     "releaseNotes": [
-        "- Perbaikan gagal menyimpan data penjualan saat piutang",
-        "- Perbaikan daftar hutang tidak keluar",
-        "- Perbaikan level pelanggan tidak muncul"
+        "- Penambahan menu promo yang berlaku",
+        "- Penambahan diskon detail",
+        "- Penambahan implementasi diskon periode dan promo periode"
     ]
 }
