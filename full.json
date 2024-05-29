@@ -1,11 +1,9 @@
 {
-    "latestVersion": "2.6",
-    "latestVersionCode": "17",
+    "latestVersion": "2.7",
+    "latestVersionCode": "18",
     "url": "https://drive.google.com/uc?export=download&id=1MyK-renfU4gJUQE4QAdqr_sXZRx0jqpC",
     "releaseNotes": [
-        "- Penambahan Ukuran Struk (58mm, 76mm)",
-        "- Penambahan Koneksi Printer (Bluetooth, USB, Ethernet)",
-        "- Pengimplementasian default harga untuk pelanggan",
-        "- Perbaikan hak akses untuk beberapa menu"
+        "- Penambahan Total pada laporan transaksi",
+        "- Optimasi export excel pada laporan transaksi"
     ]
 }
