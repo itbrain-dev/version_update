@@ -1,10 +1,9 @@
 {
-    "latestVersion": "3.1",
-    "latestVersionCode": "22",
+    "latestVersion": "3.3",
+    "latestVersionCode": "24",
     "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
     "releaseNotes": [
-        "- Penambahan harga jual dan harga beli pada laporan barang",
-        "- Penambahan pemilihan harga jual 2 dan 3 pada penjualan barang",
-        "- Perbaikan stok pada stok opname"
+        "- Optimasi aplikasi",
+        "- Penambahan master data"
     ]
 }
