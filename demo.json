@@ -1,9 +1,10 @@
 {
-    "latestVersion": "3.5",
-    "latestVersionCode": "26",
+    "latestVersion": "3.6",
+    "latestVersionCode": "27",
     "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
     "releaseNotes": [
         "- Perbaikan barang yang tidak hilang ketika di blokir",
-        "- Perbaikan glith saat pada refresh daftar penjualan"
+        "- Perbaikan glith saat pada refresh daftar penjualan",
+        "- Perbaikan glith saat pada refresh laporan"
     ]
 }
