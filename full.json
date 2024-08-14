@@ -1,10 +1,10 @@
 {
-    "latestVersion": "3.6",
-    "latestVersionCode": "27",
+    "latestVersion": "3.7",
+    "latestVersionCode": "28",
     "url": "https://drive.google.com/uc?export=download&id=1MyK-renfU4gJUQE4QAdqr_sXZRx0jqpC",
     "releaseNotes": [
-        "- Perbaikan barang yang tidak hilang ketika di blokir",
-        "- Perbaikan glith saat pada refresh daftar penjualan",
-        "- Perbaikan glith saat pada refresh laporan"
+        "- Perbaikan hak akses keuangan",
+        "- Menambah button cetak pada detail penjualan",
+        "- Implementasi dinamis harga"
     ]
 }
