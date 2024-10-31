@@ -1,10 +1,11 @@
 {
-    "latestVersion": "3.7",
-    "latestVersionCode": "28",
+    "latestVersion": "4.2",
+    "latestVersionCode": "33",
     "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
     "releaseNotes": [
-        "- Perbaikan hak akses keuangan",
-        "- Menambah button cetak pada detail penjualan",
-        "- Implementasi dinamis harga"
+        "- Perbaikan Bug Koma pada Stok Opname",
+        "- Perbaikan Bug Refresh setelah pembayaran piutang pelanggan",
+        "- Perbaikan Bug pembayaran cash bisa dibayar meskipun pembayaran kurang",
+        "- Peningkatan Stabilitas Aplikasi"
     ]
 }
