@@ -1,11 +1,8 @@
 {
-    "latestVersion": "4.2",
-    "latestVersionCode": "33",
+    "latestVersion": "4.3",
+    "latestVersionCode": "34",
     "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
     "releaseNotes": [
-        "- Perbaikan Bug Koma pada Stok Opname",
-        "- Perbaikan Bug Refresh setelah pembayaran piutang pelanggan",
-        "- Perbaikan Bug pembayaran cash bisa dibayar meskipun pembayaran kurang",
         "- Peningkatan Stabilitas Aplikasi"
     ]
 }
