@@ -1,8 +1,10 @@
 {
-    "latestVersion": "4.3",
-    "latestVersionCode": "34",
+    "latestVersion": "4.5",
+    "latestVersionCode": "36",
     "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
     "releaseNotes": [
-        "- Peningkatan Stabilitas Aplikasi"
+        "- Peningkatan Stabilitas Aplikasi",
+        "- Penambahan Log Aktifitas",
+        "- Perbaikan Fetch Jurnal Keuangan"
     ]
 }
