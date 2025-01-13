@@ -1,10 +1,9 @@
 {
-    "latestVersion": "4.5",
-    "latestVersionCode": "36",
+    "latestVersion": "4.8",
+    "latestVersionCode": "39",
     "url": "https://drive.google.com/uc?export=download&id=1MyK-renfU4gJUQE4QAdqr_sXZRx0jqpC",
     "releaseNotes": [
-        "- Peningkatan Stabilitas Aplikasi",
-        "- Penambahan Log Aktifitas",
-        "- Perbaikan Fetch Jurnal Keuangan"
+        "- Fix bug saldo hutang tidak update",
+        "- Fix bug penjualan dan hutang tidak muncul di daftar"
     ]
 }
