@@ -1,9 +1,9 @@
 {
-    "latestVersion": "4.8",
-    "latestVersionCode": "39",
+    "latestVersion": "5.2",
+    "latestVersionCode": "43",
     "url": "https://drive.google.com/uc?export=download&id=1l6ZlpLkssSWbS91w84BXFYfve8P06azQ",
     "releaseNotes": [
-        "- Fix bug saldo hutang tidak update",
-        "- Fix bug penjualan dan hutang tidak muncul di daftar"
+        "- Fix bug retur penjualan tidak menambahkan stok",
+        "- Fix bug penjualan tidak cocok ketika multi cabang"
     ]
 }
